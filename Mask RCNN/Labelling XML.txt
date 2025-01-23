@@ -1,0 +1,3 @@
+The data was labelled through a tiny user-friendly labelling utility LabelImg,
+ and the data was then put into the Pascal VOC XML format.
+ LabelImg is an open-source graphical image annotation tool that is used to annotate images for computer vision tasks, such as object detection. 

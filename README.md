@@ -17,5 +17,6 @@ This repository contains the code and resources for a project focused on identif
 
 - ![Sample Results using MaskRCNN](output_1.11.22_SPP_Fov1_1_NDTiffStack.tif_last_overlay.png)
 - ![Sample Results using MaskRCNN](output_1.11.22_SPP_Fov8_1_NDTiffStack.tif_1_overlay.png)
+-  ![Sample Results using MaskRCNN](Screenshot(35).png)
 
 

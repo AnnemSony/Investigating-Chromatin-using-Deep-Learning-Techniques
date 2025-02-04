@@ -15,8 +15,8 @@ This repository contains the code and resources for a project focused on identif
 - **Error Prediction**: Developed a Time Distributed CNN with Bi-directional LSTM to predict and correct detection errors, improving model reliability.
 - **Performance**: Achieved an inference score of 82%, demonstrating the effectiveness of the models in detecting chromatin features in cancer cell images.
 
-- ![Sample Results using MaskRCNN](output_1.11.22_SPP_Fov1_1_NDTiffStack.tif_last_overlay.png)
-- ![Sample Results using MaskRCNN](output_1.11.22_SPP_Fov8_1_NDTiffStack.tif_1_overlay.png)
+- ![Sample Results using MaskRCNN](1.png)
+- ![Sample Results using MaskRCNN](2.png)
 -  ![Sample Results using MaskRCNN](Screenshot.png)
 
 

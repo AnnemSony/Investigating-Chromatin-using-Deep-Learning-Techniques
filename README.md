@@ -1,6 +1,6 @@
 
 Code can be shared based  on request: annemsony.137@gmail.com
-# Chromatin Imaging and Analysis in Cancer Cells
+# Investigating-Chromatin-using-Deep-Learning-Techniques
 
 ## Overview
 This repository contains the code and resources for a project focused on identifying and analyzing chromatin positions in cancer cells using deep learning techniques. The goal of the project is to utilize advanced image processing and machine learning models to accurately detect chromatin within cell images, ultimately enhancing cancer research and diagnosis. The project leverages techniques such as 3D Convolutional Neural Networks (CNNs), object detection models, synthetic data generation, and error prediction models.
